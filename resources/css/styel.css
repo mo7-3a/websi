@@ -24,7 +24,7 @@ section{
 }
 header{
 
-    background-image:   linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.3)), url(../img/bg.jpg);
+    background-image:   linear-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.4)), url(../img/bg.jpg);
     height: 100vh;
     background-size: cover;
 }
@@ -117,10 +117,10 @@ color: #f06a73;*/
     color: white;
 }
 .logo{
-    width: 70px;
+    width: 90px;
     height: auto;
     float: left;
-    margin-top: 15px;
+    margin-top: 25px;
     margin-left: 55px;
 }
 .min-nav{
